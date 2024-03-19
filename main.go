@@ -47,7 +47,7 @@ func main() {
 	// /
 	// %
 
-	a := 10
+	a := 11
 	b := 31
 
 	result := b % a
